@@ -5,7 +5,7 @@ import javax.ws.rs.core.Application;
 
 /**
  */
-@ApplicationPath("/service")
+@ApplicationPath("/")
 public class JAXRSConfiguration extends Application {
 
 }

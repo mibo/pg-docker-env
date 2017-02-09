@@ -8,7 +8,7 @@ import javax.ws.rs.core.Response;
 import java.net.URI;
 import java.util.UUID;
 
-@Path("/")
+@Path("service")
 @Produces(MediaType.APPLICATION_JSON)
 public class ServiceEndpoint {
 

@@ -8,7 +8,6 @@
         <version>0.1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>de.mirb.pg.docker</groupId>
     <artifactId>pg-jee-service</artifactId>
 
     <packaging>war</packaging>
